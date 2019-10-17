@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fuckbook</title>
+	<title>Facebook</title>
 	<link rel="stylesheet" type="text/css" href="first project.css">
 </head>
 <body>
 	<div class="head">
-	<h1>fuckbook</h1>
+	<h1>facebook</h1>
 	<form class="main">
 		
 		<label>Email or phone or loda</label>
@@ -20,7 +20,7 @@
 		</button>
 	</form>
     </div>
-    <div class="f">Faceboob helps you connect and share with the people in your life or with whom u want to be in contact with.</div>
+    <div class="f">Facebook helps you connect and share with the people in your life or with whom u want to be in contact with.</div>
     <img class="img" src="https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/099etSefEv-.png" alt width="536" height="194">
     <table>
     <form class="form">
