@@ -1,5 +1,5 @@
 body {
-	background:	green;
+	background:#000000;
 }
 .head{
 	background-color: rgb(59,89,152);
