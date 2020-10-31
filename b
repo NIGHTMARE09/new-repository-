@@ -1,5 +1,5 @@
 body {
-	background:	#e9ebee;
+	background:	#2e7575;
 }
 .head{
 	background-color: rgb(59,89,152);
@@ -12,7 +12,7 @@ body {
 
 .f{
 	color: #0e385f;
-    font-size: 210px;
+    font-size: 250px;
     font-weight: bold;
     line-height: 29px;
     margin-top: 40px;
